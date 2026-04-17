@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Priya ✌️<br>Second-year Computer Engineering student at Army Institute of Technology, Pune.<br>I enjoy building solutions and experimenting with technology to see how ideas turn into real products.<br><br>Currently exploring Web Development and Machine Learning<br>Curiously building and improving every day.
+Hi I am Priya ✌️<br>Second-year Computer Engineering student. <br>I enjoy building solutions and experimenting with technology to see how ideas turn into real products.<br><br>Currently exploring Web Development and Machine Learning<br>Curiously building and improving every day.
 
 
 ## 🌐 Socials:
